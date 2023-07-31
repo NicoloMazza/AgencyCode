@@ -1,11 +1,23 @@
 # AgencyCode
 
-# Cos'è AgencyCode
-AgencyCode nasce come progetto universitario per il corso di Ingegneria del Software tenuto dall'università degli studi di Palermo.
+# Cos'è AgencyCode?
 
+• AgencyCode nasce come progetto universitario per il corso 'Ingegneria del Software' tenuto dall'università degli studi di Palermo.
+
+• È un software Java based per personal computer, in grado di gestire (in modo quasi del tutto autonomo) gli aspetti della vita aziendale di un dipendente (es: gestione e generazione dei turni, generazione e successivo accredito degli stipendi, richiesta di ferie e successiva sostituzione del dipendente in questione, ingressi e uscite, etc.)
+
+• È compatibile con i seguenti sistemi operativi:
+- Windows
+- MacOS
+- Linux
+
+• Utilizza uno stile minimal poiché si tratta di un contesto lavorativo; ciò lo rende semplice, intuitivo e rapido. Un sistema di gestione senza fronzoli.
 
 # Membri
-La Rosa Mazza Nicolò, Gabriele Bova, Giuseppe Cimino, Riccardo Carini.
+La Rosa Mazza Nicolò, 
+Gabriele Bova, 
+Giuseppe Cimino, 
+Riccardo Carini.
 
 # Tema
 Si richiede di progettare e sviluppare un software di gestione della sezione impiegati di un’azienda di servizi al cittadino. Il sistema deve gestire tutte le informazioni riguardanti gli impiegati dei quali è necessario gestire gli stipendi e i turni. Gli impiegati dell’azienda hanno mansioni diverse e possono essere in regime di part-time o full-time. Gli impiegati full-time lavorano in media 36 ore a settimana con turni di 8 ore mentre quelli part-time lavorano 18 ore a settimana con turni o di 4 o di 6 ore.
