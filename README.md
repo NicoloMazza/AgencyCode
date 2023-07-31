@@ -1,10 +1,13 @@
 # AgencyCode
 
-AgencyCode nasce come progetto universitario per il corso di Ingegneria del Software.
+# Cos'è AgencyCode
+AgencyCode nasce come progetto universitario per il corso di Ingegneria del Software tenuto dall'università degli studi di Palermo.
 
-Membri: La Rosa Mazza Nicolò, Gabriele Bova, Giuseppe Cimino, Riccardo Carini.
 
-Tema:
+# Membri
+La Rosa Mazza Nicolò, Gabriele Bova, Giuseppe Cimino, Riccardo Carini.
+
+# Tema
 Si richiede di progettare e sviluppare un software di gestione della sezione impiegati di un’azienda di servizi al cittadino. Il sistema deve gestire tutte le informazioni riguardanti gli impiegati dei quali è necessario gestire gli stipendi e i turni. Gli impiegati dell’azienda hanno mansioni diverse e possono essere in regime di part-time o full-time. Gli impiegati full-time lavorano in media 36 ore a settimana con turni di 8 ore mentre quelli part-time lavorano 18 ore a settimana con turni o di 4 o di 6 ore.
 L’azienda fornisce quattro servizi diversi. Ogni servizio ha un ruolo assegnato e l’impiegato che ricopre quel ruolo percepisce una gratifica sullo stipendio in percentuale alle ore di lavoro svolte per quel servizio. Ogni servizio ha un livello di priorità su un altro ed il software dovrà garantire che ogni giorno il servizio a priorità più alta sia svolto per un tempo maggiore rispetto agli altri. 
 Il software deve gestire i turni dei dipendenti in modo da rispettare le richieste di periodi di astensione dal lavoro per ogni dipendente. Fanno parte dei periodi di astensione: le ferie, la 
