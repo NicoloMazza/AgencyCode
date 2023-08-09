@@ -1,5 +1,3 @@
-# AgencyCode
-
 # Cos'è AgencyCode?
 
 • AgencyCode nasce come progetto universitario per il corso 'Ingegneria del Software' tenuto dall'università degli studi di Palermo.
