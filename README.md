@@ -36,7 +36,7 @@ All’atto dell’assunzione l’impiegato viene inserito nel sistema con tutti 
 
 Si ricorda che da specifiche NON è richiesta un’applicazione web o una particolare architettura, gli studenti dovranno condurre la fase di analisi senza far riferimento ad una particolare architettura né ipotizzare soluzioni specifiche.
 
-In questa repository è dunque possibile trovare:
+# In questa repository trovi:
 - Documentazione (RAD, SDD, ODD)
 - Codice sorgente
 - Mockups
