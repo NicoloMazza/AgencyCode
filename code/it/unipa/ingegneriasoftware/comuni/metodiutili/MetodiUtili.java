@@ -117,8 +117,8 @@ public class MetodiUtili {
     * @param parametri specifici per il tipo di mail scelta da inserire nel corpo
     */
     public static void inviaEmail(UtenteENT utente, int tipo, List<String> parametri) {
-        final String emailMittente = "emailmittente89@gmail.com";
-        final String passMittente = "fbyuqpbtabwnpkzs";
+        final String emailMittente = "emailfalsa89@gmail.com";
+        final String passMittente = "passfalsa89";
         String emailDestinatario, oggetto, corpo;
         emailDestinatario = utente.getEmail();
         switch (tipo) {
