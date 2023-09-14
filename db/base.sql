@@ -280,7 +280,7 @@ INSERT INTO servizio (cod_servizio, nome_servizio, stipendio_base) VALUES (2, "G
 INSERT INTO servizio (cod_servizio, nome_servizio, stipendio_base) VALUES (3, "Gestione Segnalazioni", 8.0);
 INSERT INTO servizio (cod_servizio, nome_servizio, stipendio_base) VALUES (4, "Gestione Recensioni", 7.0);
 
-INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Gabriele', 'Rossonno', 'nicololarosamazza02@gmail.com', 'tuybvdve', 'IT42B4565417532589575389532'); -- 1111
+INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Gabriele', 'Rossonno', 'falso1@gmail.com', 'falso2', 'IT42B4565417532589575389532'); -- 1111
 INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Alighiero', 'Rossi', 'rossi.alighiero@mailfalsa.com', 'zlvqxlir', 'IT33V1408876082506074685968'); -- 1112
 INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Galeazzo', 'Verdi', 'verdi.galeazzo@mailfalsa.com', 'qzkzyres', 'IT47J5493540029889178158366'); -- 1113
 INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Guglielmo', 'Neri', 'neri.guglielmo@mailfalsa.com', 'hpvhtpaa', 'IT15P7007364616089191352932'); -- 1114
@@ -325,9 +325,9 @@ INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Nella', 'Cocci', 
 INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Lino', 'Sasso', 'sasso.lino@mailfalsa.com', 'cnafarru', 'IT56L8901640117299156875224'); -- 1153
 INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Serena', 'Alba', 'alba.serena2@mailfalsa.com', 'tcaaskbn', 'IT64S7696310399863085161729'); -- 1154 (Omonimo)
 INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Lina', 'Carto', 'carto.lina@mailfalsa.com', 'ignyrzdd', 'IT46N2241447786507308793321'); -- 1155
-INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Gabriele', 'Bova', 'bovaga01@gmail.com', 'a1b2c3d4', 'IT53C7231600240575241698467'); -- 1156
-INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Riccardo', 'Carini', 'riccardocarini9@gmail.com', 'ciminodorme87', 'IT38P2625706374730167907286'); -- 1157
-INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Giuseppe', 'Cimino', 'ciminogiuseppe80@gmail.com', '2000', 'IT49B5501424348943208054246'); -- 1158
+INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Gabriele', 'Bova', 'falso3@gmail.com', 'falso4', 'IT53C7231600240575241698467'); -- 1156
+INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Riccardo', 'Carini', 'falso9@gmail.com', 'ciminodorme87', 'IT38P2625706374730167907286'); -- 1157
+INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Giuseppe', 'Cimino', 'ciminchio@gmailfalsa.com', 'ajejo', 'IT49B5501424348943208054246'); -- 1158
 INSERT INTO utente (nome, cognome, email, pass, iban) VALUES ('Nicolo\'', 'La Rosa Mazza', 'nicololarosamazza2@gmail.com', 'qwerty00', 'IT28F6768891534861600341873'); -- 1159
 
 UPDATE utente SET utente.stato_pass = 1 WHERE utente.matricola BETWEEN 1157 AND 1159;
